@@ -77,8 +77,8 @@ The complete technical chain, supporting evidence, impact assessment, and remedi
 │   └── Symfonos2.jpg
 │
 ├── Docs/
-│   ├── Documento di Replicabilità.pdf
-│   └── Penetration Testing Report.pdf
+│   ├── Documento_di_Replicabilità.pdf
+│   └── Penetration_Testing_Report.pdf
 │
 ├── Reports/
 │   ├── Nessus_Basic_Scan.pdf

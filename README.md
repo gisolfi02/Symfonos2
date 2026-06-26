@@ -66,6 +66,7 @@ The complete technical chain, supporting evidence, impact assessment, and remedi
 |---|---|
 | [Reproducibility Document](Docs/Documento_di_Replicabilit%C3%A0.pdf) | Full technical documentation including methodology, commands, outputs, screenshots, and the complete assessment workflow. |
 | [Penetration Testing Report](Docs/Penetration_Testing_Report.pdf) | Management-oriented report containing the Executive Summary, Engagement Highlights, Vulnerability Report, Remediation Report, Findings Summary, and Detailed Summary. |
+| [Presentazione](Docs/Presentazione.pdf) | A brief overview of the project that outlines the main phases of the penetration test, the methodology used, the chain of compromise, and the results obtained. |
 | [Nessus Basic Network Scan](Reports/Nessus_Basic_Scan.pdf) | Nessus report covering network services, exposed configurations, and vulnerability scan results. |
 | [Nessus Web Application Scan](Reports/Nessus_Web_Application_Scan.pdf) | Nessus report focused on the web application attack surface exposed by the target. |
 
@@ -78,7 +79,8 @@ The complete technical chain, supporting evidence, impact assessment, and remedi
 │
 ├── Docs/
 │   ├── Documento_di_Replicabilità.pdf
-│   └── Penetration_Testing_Report.pdf
+│   ├── Penetration_Testing_Report.pdf
+│   └── Presentazione.pdf
 │
 ├── Reports/
 │   ├── Nessus_Basic_Scan.pdf
